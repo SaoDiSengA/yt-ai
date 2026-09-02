@@ -28,3 +28,16 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/spring-ai/target/classes/com/yt/springai/config/ChatClientConfig.class
+/spring-ai/target/classes/com/yt/springai/controller/CallDemoController$TokenUsageResponse.class
+/spring-ai/target/classes/com/yt/springai/controller/CallDemoController.class
+/spring-ai/target/classes/com/yt/springai/controller/ChatCompareDemo.class
+/spring-ai/target/classes/com/yt/springai/controller/ChatController.class
+/spring-ai/target/classes/com/yt/springai/controller/MessagesDemoController$ChatHistoryRequest.class
+/spring-ai/target/classes/com/yt/springai/controller/MessagesDemoController.class
+/spring-ai/target/classes/com/yt/springai/controller/MultiChatController.class
+/spring-ai/target/classes/com/yt/springai/controller/OptionsDemoController.class
+/spring-ai/target/classes/com/yt/springai/controller/PromptDemoController.class
+/spring-ai/target/classes/com/yt/springai/controller/SimpleChatController.class
+/spring-ai/target/classes/com/yt/springai/SpringAiApplication.class
+/spring-ai/target/classes/application.yml
